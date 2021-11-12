@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    background-color: blueviolet;
+   
+    width: 100%;
+    height: 50px;
+    }
+
+ .header-title{
+   margin-top: 5px;
+   margin-bottom: 5px;
+   margin-left: 15px;
+   
+    color: white;
+ }
